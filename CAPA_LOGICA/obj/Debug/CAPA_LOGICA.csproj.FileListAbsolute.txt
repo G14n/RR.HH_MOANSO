@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.Properties.Resources.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll.config
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_DATOS.dll
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_ENTIDA.dll
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_DATOS.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_DATOS.dll.config
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_ENTIDA.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\bin\Debug\CAPA_ENTIDA.dll.config
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CopyComplete
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb

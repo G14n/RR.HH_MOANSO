@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\obj\Debug\CAPA_DATOS.Properties.Resources.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll.config
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\bin\Debug\CAPA_ENTIDA.dll
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\bin\Debug\CAPA_ENTIDA.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\bin\Debug\CAPA_ENTIDA.dll.config
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CopyComplete
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb

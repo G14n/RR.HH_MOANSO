@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\obj\Debug\CAPA_ENTIDA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\obj\Debug\CAPA_ENTIDA.Properties.Resources.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\obj\Debug\CAPA_ENTIDA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\obj\Debug\CAPA_ENTIDA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\bin\Debug\CAPA_ENTIDA.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\obj\Debug\CAPA_ENTIDA.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\bin\Debug\CAPA_ENTIDA.dll.config
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\bin\Debug\CAPA_ENTIDA.dll
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\CAPA_ENTIDA\obj\Debug\CAPA_ENTIDA.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\bin\Debug\Interfaz_proyecto_MOANSO.exe.config
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\bin\Debug\Interfaz_proyecto_MOANSO.exe
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\bin\Debug\Interfaz_proyecto_MOANSO.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.Form1.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.Properties.Resources.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.exe
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.pdb
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.Form2.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.Form3.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.Form4.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.Form5.resources
+C:\Users\User\source\repos\Interfaz_proyecto_MOANSO\Interfaz_proyecto_MOANSO\obj\Debug\Interfaz_proyecto_MOANSO.Login.resources
